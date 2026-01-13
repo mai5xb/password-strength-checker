@@ -23,3 +23,9 @@ Perfect! Strong password ✅
 
 Enter your password: exit
 Exiting program...
+
+Features
+- Simple and beginner‑friendly
+- Real‑time feedback
+- Supports unlimited password checks
+- Includes clear strength scoring
