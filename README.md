@@ -9,3 +9,17 @@ based on 4 rules:
 
 Users can enter multiple passwords until typing 'exit'.
 The program then gives feedback about password strength.
+
+Sample Input/Output
+Enter your password: abcd
+Nah... very weak password ❌
+Try adding numbers or symbols.
+
+Enter your password: Abcd1234
+Okay! Not bad 👍
+
+Enter your password: Abc123!
+Perfect! Strong password ✅
+
+Enter your password: exit
+Exiting program...
